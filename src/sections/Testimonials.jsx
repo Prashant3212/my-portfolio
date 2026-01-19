@@ -1,7 +1,7 @@
 import { testimonials , collegeExp} from "../constants";
 import TitleHeader from "../components/TitleHeader";
 import GlowCard from "../components/GlowCard";
-import CollegeCard from "../components/collegeCard";
+import CollegeCard from "../components/CollegeCard";
 
 
 const Testimonials = () => {
